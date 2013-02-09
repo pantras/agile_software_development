@@ -7,10 +7,10 @@ Foreword
 Software development shall be controlled by an empirical process (p vi).
 
 Preface
-Repeatable process vs. emergent process, but statiscally predictable process (p viii).
+Repeatable process vs. emergent process, but statistically predictable process (p viii).
 
 Intro
-Scrum is a managementand and control process on top of exisiting engineering practices (p 2).
+Scrum is a management and and control process on top of existing engineering practices (p 2).
 
 "Whoever writes code owns it for ever" (p 5).
 
@@ -20,22 +20,22 @@ Architecture and Design should emerge rather than being done first (p 9).
 
 Scrum teams are self-organized and autonomous (p 9).
 
-Release Sprint to bring the product to release readyness (p 10).
+Release Sprint to bring the product to release readiness (p 10).
 
 Synchronous steps, component testing and refactoring (p 15).
 
 eXtreme Programming to implement code delivered by Scrum organization (p 17). 
 
-Team (pair ?) programming, constat testing and refactoring were more difficult to introduce with C and C++ (p 17).
+Team (pair ?) programming, constant testing and refactoring were more difficult to introduce with C and C++ (p 17).
 
-ADM (Adaptative Development Methodology ?): two cycles. Build functionality. Prepare it for release (p 18).
+ADM (Adaptive Development Methodology ?): two cycles. Build functionality. Prepare it for release (p 18).
 
 Scrum as a collection of organizational patterns (p 20).
 
 Chapter 2
 ---------
 
-Empirical model of process control: expect the unexpected ; frequent inspectiond and process adaptation (p 25).
+Empirical model of process control: expect the unexpected ; frequent inspections and process adaptation (p 25).
 
 Most people really understand Scrum when they begin to use it (p 25).
 
@@ -50,7 +50,7 @@ Issue might be included in the backlog (living document) (p 33).
 
 Product Owner manages and controls the product backlog (p 34).
 
-PO works with Team to estimate. Estiating is an iterative process. Estimates can be revised (p 34).
+PO works with Team to estimate. Estimating is an iterative process. Estimates can be revised (p 34).
 
 Team commits estimated backlog items for the next sprint (p 34).
 
@@ -58,11 +58,11 @@ Team can reduce functionality in the current sprint (p 36).
 
 Team size is between 3 to 8 - ideally (p 36).
 
-Team is cross-functional and self-organized. Some teams incude QA, otherwise engineers test their code (p 37).
+Team is cross-functional and self-organized. Some teams include QA, otherwise engineers test their code (p 37).
 
 Team has full authority to make any decision required to meet the sprint goal. Team can abort a sprint if it is not given enough autonomous (p38).
 
-Openspace and Big Visible Charts.
+Open-space and Big Visible Charts.
 
 Daily scrum in scrum room (p 40).
 
@@ -76,13 +76,13 @@ Abort the sprint if too many impediments are not removed by the Scrum master or 
 
 Indecision can be an impediments (p 45).
 Scrum master is responsible for making the decision or having the team make it.
-Making decisons allows the team to gain control.
+Making decisions allows the team to gain control.
 
 Sprint planning meeting (2 sessions)
 * PO plus users, management and team to build the sprint backlog.
-* Team discuss how to buils this functionality.
+* Team discuss how to build this functionality.
 
-Sprint goal: objective that will be met thru the implementationof the sprint backlog items (p 48).
+Sprint goal: objective that will be met thru the implementation of the sprint backlog items (p 48).
 
 Sprint backlog is a list of tasks (4 to 16 hours). The team owns the sprint backlog (p 49).
 
@@ -98,7 +98,7 @@ Chapter 4
 ---------
 Scrum empowers the team (p 57).
 
-Is slideware dead ? or limite to 30 days ? (p 58).
+Is slide-ware dead ? or limited to 30 days ? (p 58).
 
 http://www.extreme-modeling.com (http://www.extrememodeling.org).  
 Importance of the daily build (p 59).
@@ -113,7 +113,7 @@ Design, models and use cases are only useful artefacts to guide the team. "You c
 
 Release backlog is a subset of the product backlog allowing to estimates release dates (p 71).
 
-There ar no mechanics in Scrum for tracking worked time. Scrum is result oriented, not process oriented (p 73).
+There are no mechanics in Scrum for tracking worked time. Scrum is result oriented, not process oriented (p 73).
 
 Each product backlog  item has its amount of estimated work remaining (p 83).
 
@@ -123,9 +123,9 @@ Estimation errors accumulate in PERT charts, sinking the project plan (p 96).
 
 Process engineers failed to abstract or define process from scrum project experience. Each project is unique (p 102).
 
-Software development is like new procut development, not like manufacturing (p 106).
+Software development is like new product development, not like manufacturing (p 106).
 
-New product view of Scrum. CMM is inspired by MMM (Manufacturing Matutity Model), as exposed in Quality is free (Crosby) (p 107).
+New product view of Scrum. CMM is inspired by MMM (Manufacturing Maturity Model), as exposed in Quality is free (Crosby) (p 107).
 
 Onsite customer whenever possible (p 109).
 
@@ -144,7 +144,7 @@ Yagni - You ain't gonna need it.
 
 One team for each application and one team for the shared resources (p 124).
 
-Tracer bullet aplication to reuse shared resources (p 129).
+Tracer bullet application to reuse shared resources (p 129).
 
 Reusable assets need to be stable (p 130).
 
@@ -153,7 +153,7 @@ Hidden tasks are put in product backlog which makes them visible (p 138).
 Chapter 8
 ---------
 
-The whole organization has to be committed to remove impediments. Organizations adapting Scrum should expect to reegineer themselves (p 143).
+The whole organization has to be committed to remove impediments. Organizations adapting Scrum should expect to reengineer themselves (p 143).
 
 Chapter 9
 ---------
