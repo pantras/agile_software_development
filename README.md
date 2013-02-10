@@ -14,8 +14,8 @@ Scrum is a management and and control process on top of existing engineering pra
 
 "Whoever writes code owns it for ever" (p 5).
 
-Chapter 1
----------
+Chapter 1 - Introduction.
+-------------------------
 Architecture and Design should emerge rather than being done first (p 9).
 
 Scrum teams are self-organized and autonomous (p 9).
@@ -32,8 +32,8 @@ ADM (Adaptive Development Methodology ?): two cycles. Build functionality. Prepa
 
 Scrum as a collection of organizational patterns (p 20).
 
-Chapter 2
----------
+Chapter 2 - Get Ready for Scrum! 
+--------------------------------
 
 Empirical model of process control: expect the unexpected ; frequent inspections and process adaptation (p 25).
 
@@ -41,8 +41,8 @@ Most people really understand Scrum when they begin to use it (p 25).
 
 "The art of the possible" (p 27).
 
-Chapter 3
----------
+Chapter 3 - Scrum Practices. 
+----------------------------
 
 Scrum master is focused and determined to succeed, comfortable being visible and taking initiatives (p 32).
 
@@ -94,8 +94,9 @@ Management can cancel a sprint. Team can cancel a sprint when the goal is reache
 
 Sprint review: the Scrum master presents the actual sprint goal and backlog vs. the expected and explain the difference. The sprint review is informal (no PP) (p 55).
 
-Chapter 4
----------
+Chapter 4 - Applying Scrum. 
+---------------------------
+
 Scrum empowers the team (p 57).
 
 Is slide-ware dead ? or limited to 30 days ? (p 58).
@@ -121,16 +122,18 @@ Defined process are repeatable, predictable. Complex process are not and shall b
 
 Estimation errors accumulate in PERT charts, sinking the project plan (p 96).
 
+Chapter 5 - Why Scrum? 
+----------------------
+
 Process engineers failed to abstract or define process from scrum project experience. Each project is unique (p 102).
 
+Chapter 6 - Why does Scrum work?
+--------------------------------
 Software development is like new product development, not like manufacturing (p 106).
 
 New product view of Scrum. CMM is inspired by MMM (Manufacturing Maturity Model), as exposed in Quality is free (Crosby) (p 107).
 
 Onsite customer whenever possible (p 109).
-
-Chapter 7
----------
 
 Risk management and predictability view of Scrum (p 108).
 * risk of not pleasing the customer
@@ -142,6 +145,9 @@ Risk management and predictability view of Scrum (p 108).
 
 Yagni - You ain't gonna need it. 
 
+Chapter 7 - Advanced Scrum Applications. 
+----------------------------------------
+
 One team for each application and one team for the shared resources (p 124).
 
 Tracer bullet application to reuse shared resources (p 129).
@@ -150,12 +156,12 @@ Reusable assets need to be stable (p 130).
 
 Hidden tasks are put in product backlog which makes them visible (p 138).
 
-Chapter 8
----------
+Chapter 8 - Scrum and the Organization. 
+---------------------------------------
 
 The whole organization has to be committed to remove impediments. Organizations adapting Scrum should expect to reengineer themselves (p 143).
 
-Chapter 9
----------
+Chapter 9 - Scrum Values. 
+-------------------------
 
 Values: commitment, respect, focus, openness, courage. "What's they got to do with the code ?" (p 150).
